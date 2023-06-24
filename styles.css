@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .hero{
 	display: flex;
-object-fit:cover;	
+
 	
 }
 a{
@@ -11,4 +11,8 @@ a{
 #bt{
 	padding:5px;
 	background-color:red;
+}
+a img{
+	object-fit:cover;	
+	
 }
