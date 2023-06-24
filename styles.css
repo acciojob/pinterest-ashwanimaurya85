@@ -1,7 +1,14 @@
 /*  your css code here. If applicable */
 .hero{
-	display: inline-block;
-	flex-direction: row-reverse;
-	flex-flow: row wrap;
-	justify-content: start;
+	display: flex;
+	justify-content: space-evenly;
+	
+}
+.a{
+	margin:10px;
+	
+}
+#bt{
+	padding:5px;
+	background-color:red;
 }
