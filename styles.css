@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-.hero{
+.a{
 	display: flex;
 	justify-content: space-evenly;
 	
 }
-.a{
+.b{
 	margin:10px;
 	
 }
